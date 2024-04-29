@@ -4,6 +4,7 @@
       <p class="welcome-text">안녕하세요, <span class="user-name">{{ user.name }}</span>님!</p>
       <p class="description">오늘도 즐거운 식물 관리하세요.</p>
       <p class="description">헤헷콩</p>
+      <p class="description">변수 테스트</p>
     </div>
     <div class="brand" v-if="isLoggedIn">
       LEAFY
